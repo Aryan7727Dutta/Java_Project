@@ -22,11 +22,11 @@ public class Automorphic_number {
         System.out.println(a);
         if(a==x)
         {
-            System.out.println("Bengali");
+            System.out.println("Automorphic");
         }
         else
         {
-            System.out.println("not Bengali");
+            System.out.println("Not Automorphic");
         }
     }
 }
